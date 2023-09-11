@@ -1,3 +1,5 @@
+git config --global user.name AntonLeBeque
+git config --global user.password <Personal Computer>
 - 👋 Hi, I’m @AntonLeBeque
 - 👀 I’m interested in ...  data analytics, the NFL, and weightlifting.
 - 🌱 I’m currently learning ... data analytics.
